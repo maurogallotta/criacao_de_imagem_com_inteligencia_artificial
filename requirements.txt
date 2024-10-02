@@ -1,4 +1,4 @@
-PyTorch==2.4.1
+pytorch==2.4.1
 streamlit==1.32.1
 streamlit-aggrid==0.3.4.post3
 diffusers==0.30.3
